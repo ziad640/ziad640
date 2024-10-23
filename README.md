@@ -1,11 +1,6 @@
 # 👋 Hello, I'm Ziad Hassan
 
-🔭 I’m a **Software Engineer** and **Data Scientist** with a focus on applying data-driven approaches to solve real-world problems. 
-
-🌱 I’m currently exploring **Advanced Flutter** and deepening my knowledge in **Machine Learning** and **Data Analysis**.
-
-👨‍💻 You can find all my projects and contributions on my [GitHub Portfolio](https://github.com/ziad640/Tactic_Zone.git).
-
+🔭 I’m a **Data Scientist** with a focus on applying data-driven approaches to solve real-world problems. 
 ---
 
 # 🚀 Skills and Tools
