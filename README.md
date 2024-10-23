@@ -1,59 +1,68 @@
-# Hi there, I'm Ziad Hassan 👋
+# 👋 Hello, I'm Ziad Hassan
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen)
+🔭 I’m a **Software Engineer** and **Data Scientist** with a focus on applying data-driven approaches to solve real-world problems. 
 
-## 👨‍💻 About Me
+🌱 I’m currently exploring **Advanced Flutter** and deepening my knowledge in **Machine Learning** and **Data Analysis**.
 
-I am a passionate data scientist and software engineer with a Bachelor's degree in Computer Science from Theabas Academy, where I graduated in 2024 with top honors. My expertise spans across various domains including machine learning, data analysis, and software development. 
+👨‍💻 You can find all my projects and contributions on my [GitHub Portfolio](https://github.com/ziad640/Tactic_Zone.git).
 
-I have worked on significant projects such as Safe Wave, human behavior recognition using WiFi channel state information, voice cloning, NLP, image recognition, and web scraping applications.
+---
 
-## 🛠️ Skills & Technologies
+# 🚀 Skills and Tools
 
-- **Programming Languages:** Python, Java, C++
-- **Data Science:** Machine Learning, Deep Learning, NLP, Data Visualization
-- **Web Development:** HTML, CSS, JavaScript, Flask, Django
-- **Tools & Platforms:** Git, Docker, AWS, TensorFlow, PyTorch, Jupyter Notebooks
-- **Databases:** SQL, MongoDB
+### Programming Languages
+- Python
+- R
+- SQL
 
-## 🚀 Projects
+### Data Science Libraries
+- NumPy
+- Pandas
+- Scikit-learn
+- TensorFlow
+- PyTorch
+- Matplotlib
+- Seaborn
 
-### [Safe Wave](https://github.com/yourusername/safe-wave)
-A project focused on enhancing maritime safety using machine learning algorithms.
+### Tools and Platforms
+- Jupyter Notebook
+- Git
+- Docker
+- Azure
+- Google Cloud Platform
+- Tableau
 
-### [Human Behavior Recognition](https://github.com/yourusername/human-behavior-recognition)
-An innovative project utilizing WiFi channel state information to recognize human behaviors.
+### Areas of Interest
+- Machine Learning
+- Deep Learning
+- Natural Language Processing (NLP)
+- Computer Vision
+- Data Visualization
 
-### [Voice Cloning](https://github.com/yourusername/voice-cloning)
-A project aimed at creating realistic voice clones using advanced NLP techniques.
+---
 
-### [Image Recognition](https://github.com/yourusername/image-recognition)
-A deep learning project focused on accurate image classification and recognition.
+# 📊 My Projects
+- **Tactic Zone**: Developed an AI system to analyze football match data, generating insights and recommendations for game strategies. The project utilizes computer vision techniques with YOLO and data processing frameworks. [Project Repository](https://github.com/ziad640/Tactic_Zone.git)
+  
+- **Safe Wave**: Implemented a deep learning model to enhance safety measures through data analysis and predictive modeling.
 
-### [Web Scraping Applications](https://github.com/yourusername/web-scraping-applications)
-A series of tools designed for efficient and reliable web scraping.
+- **Human Behavior Recognition**: Leveraged WiFi channel state information to recognize and analyze human behavior patterns.
 
-## 📫 Contact Me
+- **Voice Cloning**: Created a model for cloning voices using deep learning techniques.
 
-- **Email:** your.email@example.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
-- **Twitter:** [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
+---
 
-Feel free to reach out if you have any questions or would like to collaborate on a project!
+# 📈 GitHub Stats
+![Ziad Hassan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ziad640&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ziad640&layout=compact&theme=radical)
 
-## 📊 GitHub Stats
+---
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+# 🤝 Connect With Me
+- [LinkedIn](inkedin.com/in/ziad-hassan-8a76a4217/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+---
 
-## 🌟 Contributions
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
-
-## 🏆 Achievements
-
-- Graduated with a Bachelor's degree in Computer Science from Theabas Academy, class of 2024
-- Earned an A+ on my first graduation project, recognized as the best project in the university
-
-Thanks for visiting my profile! 😊
+# 💜 Views and Followers
+![GitHub Badge](https://img.shields.io/badge/Views-1000-blue?style=flat-square)
+![Followers Badge](https://img.shields.io/badge/Followers-50-brightgreen?style=flat-square)
