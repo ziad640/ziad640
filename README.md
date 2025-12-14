@@ -1,63 +1,83 @@
 # 👋 Hello, I'm Ziad Hassan
 
-🔭 I’m a **Data Scientist** with a focus on applying data-driven approaches to solve real-world problems. 
----
+**Applied AI/ML Engineer | Deep Learning & MLOps**
 
-# 🚀 Skills and Tools
-
-### Programming Languages
-- Python
-- R
-- SQL
-
-### Data Science Libraries
-- NumPy
-- Pandas
-- Scikit-learn
-- TensorFlow
-- PyTorch
-- Matplotlib
-- Seaborn
-
-### Tools and Platforms
-- Jupyter Notebook
-- Git
-- Docker
-- Azure
-- Google Cloud Platform
-- Tableau
-
-### Areas of Interest
-- Machine Learning
-- Deep Learning
-- Natural Language Processing (NLP)
-- Computer Vision
-- Data Visualization
+🔭 I specialize in the **full-cycle productization of AI solutions**, translating cutting-edge research (**Transformers, YOLO**) into **robust, low-latency, and scalable production systems**.  
+My core focus is on **Computer Vision**, **IoT integration**, and **driving measurable business impact** through Deep Learning.
 
 ---
 
-# 📊 My Projects
-- **Tactic Zone**: Developed an AI system to analyze football match data, generating insights and recommendations for game strategies. The project utilizes computer vision techniques with YOLO and data processing frameworks. [Project Repository](https://github.com/ziad640/Tactic_Zone.git)
-  
-- **Safe Wave**: Implemented a deep learning model to enhance safety measures through data analysis and predictive modeling.
+## 🚀 Core Competencies & Tech Stack
 
-- **Human Behavior Recognition**: Leveraged WiFi channel state information to recognize and analyze human behavior patterns.
+I organize my skills based on the **AI product lifecycle**:
 
-- **Voice Cloning**: Created a model for cloning voices using deep learning techniques.
+### 1️⃣ Modeling & Core ML
+- **Deep Learning Frameworks:** PyTorch, TensorFlow, Keras  
+- **Domains:** Computer Vision (CV), Natural Language Processing (NLP), Reinforcement Learning (RL)  
+- **Algorithms & Models:** YOLO (v10 / v11), Transformers (ViT), ResNet, Scikit-learn, XGBoost
 
----
+### 2️⃣ Production & MLOps
+- **Deployment:** Docker, Flask, FastAPI, ESP32 IoT Integration  
+- **Practices:** MLOps Principles, Git/GitHub, Agile, CI/CD, Low-Latency Optimization
 
-# 📈 GitHub Stats
-![Ziad Hassan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ziad640&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ziad640&layout=compact&theme=radical)
-
----
-
-# 🤝 Connect With Me
-- [LinkedIn](inkedin.com/in/ziad-hassan-8a76a4217/)
+### 3️⃣ Data & Tools
+- **Languages:** Python, C++, SQL  
+- **Libraries:** NumPy, Pandas, OpenCV, MediaPipe, Scrapy, BeautifulSoup  
+- **Cloud:** Azure, Google Cloud Platform, PostgreSQL
 
 ---
 
-# 💜 Views and Followers
-![GitHub Badge](https://img.shields.io/badge/Views-1000-blue?style=flat-square)
-![Followers Badge](https://img.shields.io/badge/Followers-50-brightgreen?style=flat-square)
+## 📊 GitHub Stats
+
+### 📈 Activity & Contributions
+![Ziad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ziad640&show_icons=true&theme=dark)
+
+### 🧠 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ziad640&layout=compact&theme=dark)
+
+### 🏆 GitHub Trophies
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ziad640&theme=dark)
+
+*Tip: These are dynamic cards pulled automatically based on your GitHub profile.* :contentReference[oaicite:1]{index=1}
+
+---
+
+## 📊 Select Applied AI & ML Projects
+
+### 🔹 Safe Wave — Human Behavior Recognition (IoT & Deep Learning)
+- Wi-Fi CSI + ESP32 behavior recognition  
+- Evaluated 44 deep learning models  
+- **98%+ classification accuracy**
+
+🔗 *Repo coming soon*
+
+---
+
+### 🔹 Tactic Zone — Football Analytics Platform
+- Real-time football event detection with **YOLOv10 / YOLOv11**
+- Built **tracking, OCR, and analytics pipelines**
+
+🔗 https://github.com/ziad640/Tactic_Zone
+
+---
+
+### 🔹 GameMode — Real-Time Embedded Gaming System
+- Gesture recognition with **MediaPipe + Transformer**
+- Ultra-low latency (<50ms) real-time performance
+
+---
+
+### 🔹 RoadXpert — Intelligent Road Safety Solution
+- AI-powered hazard detection
+- $350,000 simulated seed funding and business plan
+
+---
+
+### 🔹 Voice Cloning
+- Deep learning model to replicate speech patterns
+
+---
+
+## 🤝 Connect With Me
+- **LinkedIn:** https://www.linkedin.com/in/ziad-hassan-8a76a4217/  
+- **Email:** Ziadhassan8@hotmail.com
