@@ -35,10 +35,6 @@ I organize my skills based on the **AI product lifecycle**:
 ### 🧠 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ziad640&layout=compact&theme=dark)
 
-### 🏆 GitHub Trophies
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ziad640&theme=dark)
-
-*Tip: These are dynamic cards pulled automatically based on your GitHub profile.* :contentReference[oaicite:1]{index=1}
 
 ---
 
